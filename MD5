@@ -1,0 +1,10 @@
+6ed814468bfdde90516a608967b54cab *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+3007a56e62d7642dd3fd63fa385db1f6 *R/GeneralOaxaca.R
+80115247a54544ae47894648646991a7 *R/statBO.R
+95ae095cac93a126bc314ee2690934d9 *build/partial.rdb
+d4e5a22911e7e6e50e615984eb7c26bc *data/chicago.rda
+e5bd2f1daa8729deb5f90c8186ebe8d3 *man/GeneralOaxaca-package.Rd
+601a2753d575cc346637449d0f5702a7 *man/GeneralOaxaca.Rd
+91e805c181d903db7ccb25624524b966 *man/chicago.Rd
+cc2867910c0f98a767cbfb3936690005 *man/statBO.Rd
